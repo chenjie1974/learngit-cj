@@ -6,3 +6,4 @@ Another Line.
 git push -u origin master OK!
 learngit oneline.
 Testing clone add first.
+Testing clone add second.
